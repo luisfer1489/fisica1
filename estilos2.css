@@ -95,18 +95,7 @@ body {
     height: 100%;
 }
 
-.video-title {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    padding: 20px;
-    box-sizing: border-box;
-    background-color: transparent;
-    color: #fff;
-    font-size: 14px;
-    text-align: center;
-}
+
 
 .scroll-button {
     position: absolute;
